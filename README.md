@@ -29,7 +29,7 @@ Harcama verileri şu kategorilere ayrılmıştır:
 - Credit Card (Kredi Kartı)
 - Cash (Nakit)
 - Debit Card (Banka Kartı)
-📈 Öne Çıkan Sonuçlar
+## 📈 Öne Çıkan Sonuçlar
 ### Alışveriş Merkezlerine Göre:
 - Del Amo Fashion Center: En yüksek toplam harcamaya sahip alışveriş merkezi. Giyim ve ayakkabı kategorilerinde liderdir.
 - Beverly Center: Görece düşük harcamalar ile dikkat çeker, özellikle kitap kategorisinde en düşük harcamayı içerir.
