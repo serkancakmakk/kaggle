@@ -1,3 +1,6 @@
+## Kaggle Notebook
+[![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-blue?logo=kaggle)](https://www.kaggle.com/code/serkanakmak/notebook-aygaz-veri-analizi)
+Kaggle Proje Linki : https://www.kaggle.com/code/serkanakmak/notebook-aygaz-veri-analizi
 # 📊 Alışveriş Merkezleri Harcama Analizi
 > Bu proje, çeşitli alışveriş merkezlerinde yapılan analizleri gösterir. Veri seti, kitap, giyim, kozmetik, gıda, ayakkabı, hediyelik eşya, teknoloji ve oyuncak kategorilerinde harcamaları içermektedir.
 ## 📂 Dosya Yapısı
