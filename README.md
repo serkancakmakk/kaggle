@@ -8,7 +8,7 @@
 - Kaggle Notebook | Notebook - Aygaz Veri Analizi.ipynb (Veri analizi yapılan dosya)
 ## 📊 Veri Seti Hakkında
 > Alışveriş Merkezleri
-Aşağıdaki alışveriş merkezlerinden elde edilen harcama verilerini içermektedir:
+#### Aşağıdaki alışveriş merkezlerinden elde edilen harcama verilerini içermektedir:
 
 - Beverly Center
 - Del Amo Fashion Center
