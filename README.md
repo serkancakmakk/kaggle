@@ -25,7 +25,10 @@ Harcama verileri şu kategorilere ayrılmıştır:
 - Souvenir (Hediyelik Eşyalar)
 - Technology (Teknoloji)
 - Toys (Oyuncaklar)
-
+## 💳 Ödeme Yöntemleri
+- Credit Card (Kredi Kartı)
+- Cash (Nakit)
+- Debit Card (Banka Kartı)
 📈 Öne Çıkan Sonuçlar
 ### Alışveriş Merkezlerine Göre:
 - Del Amo Fashion Center: En yüksek toplam harcamaya sahip alışveriş merkezi. Giyim ve ayakkabı kategorilerinde liderdir.
