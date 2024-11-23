@@ -7,7 +7,7 @@
 - customer_sales_mall_data.xlsx: Birleştirilmiş veri dosyası.(Kullanılan)
 - Kaggle Notebook | Notebook - Aygaz Veri Analizi.ipynb (Veri analizi yapılan dosya)
 ## 📊 Veri Seti Hakkında
-Alışveriş Merkezleri
+> Alışveriş Merkezleri
 Aşağıdaki alışveriş merkezlerinden elde edilen harcama verilerini içermektedir:
 
 - Beverly Center
