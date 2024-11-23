@@ -1,6 +1,14 @@
 # 📊 Alışveriş Merkezleri Harcama Analizi
 > Bu proje, çeşitli alışveriş merkezlerinde yapılan harcamaların kategorilere göre analiz edilmesini sağlar. Veri seti, kitap, giyim, kozmetik, gıda, ayakkabı, hediyelik eşya, teknoloji ve oyuncak kategorilerinde harcamaları içermektedir.
+📂 Dosya Yapısı
+- sales_data.xlsx: Satış verilerini içeren dosya.
+- customer_data.xlsx: Müşteri verilerini içeren dosya.
+- shopping_mall_data.xlsx: Alışveriş merkezi verilerini içeren dosya.
+- customer_sales_mall_data.xlsx: Birleştirilmiş veri dosyası.(Kullanılan)
+- Kaggle Notebook | Notebook - Aygaz Veri Analizi.ipynb (Veri analizi yapılan dosya)
 
+analysis.ipynb: Python ve Pandas kullanılarak veri analizi yapılan Jupyter Notebook dosyası.
+README.md: Proje açıklama dosyası (bu dosya).
 📊 Veri Seti Hakkında
 Alışveriş Merkezleri
 Aşağıdaki alışveriş merkezlerinden elde edilen harcama verilerini içermektedir:
